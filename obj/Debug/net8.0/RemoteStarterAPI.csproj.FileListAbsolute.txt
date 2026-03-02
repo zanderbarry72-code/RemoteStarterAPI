@@ -1,0 +1,8 @@
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.csproj.AssemblyReference.cache
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.AssemblyInfoInputs.cache
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.AssemblyInfo.cs
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.csproj.CoreCompileInputs.cache
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\_BloodKing-Zander_\RemoteStarterAPI\obj\Debug\net8.0\RemoteStarterAPI.MvcApplicationPartsAssemblyInfo.cache

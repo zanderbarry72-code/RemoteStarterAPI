@@ -1,0 +1,6 @@
+@RemoteStarterAPI_HostAddress = http://localhost:5092
+
+GET {{RemoteStarterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
